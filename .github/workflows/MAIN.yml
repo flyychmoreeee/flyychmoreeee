@@ -4,20 +4,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # jalan otomatis setiap 6 jam
     - cron: "0 */6 * * *"
-  workflow_dispatch: # bisa dijalankan manual juga
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animation
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -25,8 +22,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+          # custom theme setting untuk background hitam
+          color_snake: '#00ff00'        # warna snake (hijau neon biar kelihatan di hitam)
+          color_dots: '#ffffff, #444444, #666666, #888888, #aaaaaa' # warna dots (putih ke abu-abu)
+          color_bg: '#000000'            # ini background hitam
 
-      # Step 3: Commit and push the generated files to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

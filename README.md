@@ -48,7 +48,6 @@ Hi, I'm Rasya – Junior Backend Developer
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=flyychmoreeee&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
 <img src="https://nirzak-streak-stats.vercel.app/?user=flyychmoreeee&theme=react&hide_border=false" alt="Streak Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyychmoreeee&layout=compact&count_private=true&cache_seconds=30&theme=react&hide_border=false" alt="Top Langs" />
 
 <br/>
 

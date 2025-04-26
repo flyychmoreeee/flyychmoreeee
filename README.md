@@ -52,6 +52,7 @@ Hi, I'm Rasya – Junior Backend Developer
 
 <br/>
 
+![github contribution snake](https://raw.githubusercontent.com/flyychmoreeee/flyychmoreeee/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=flyychmoreeee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>

@@ -1,7 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
-Hi, I'm Rasya – Junior Backend Developer
+🚀 Hey! I'm Rasya, a Junior Backend Developer with a focus on Node.js.
+I enjoy crafting APIs, building backend systems, and learning new things about software development.
+I'm always looking for opportunities to grow and collaborate on exciting projects!
 
 <br/>
 

@@ -15,9 +15,8 @@ I'm always looking for opportunities to grow and collaborate on exciting project
 
 <p align="center"> 
   Visitor count
-  <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/flyychmoreeee/count.svg" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=flyychmoreeee&color=blue" alt="Visitor Count" />
 </p>
 
 # 💻 Tech Stack:

@@ -51,6 +51,7 @@ I'm always looking for opportunities to grow and collaborate on exciting project
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Swagger](https://img.shields.io/badge/swagger-000?style=for-the-badge&logo=swagger) 
 
 <br/>
 

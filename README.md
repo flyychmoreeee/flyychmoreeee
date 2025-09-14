@@ -54,12 +54,6 @@ I'm always looking for opportunities to grow and collaborate on exciting project
 
 <br/>
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=flyychmoreeee&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
-<img src="https://nirzak-streak-stats.vercel.app/?user=flyychmoreeee&theme=react&hide_border=false" alt="Streak Stats" />  
-
-<br/>
-
 ![github contribution snake](https://raw.githubusercontent.com/flyychmoreeee/flyychmoreeee/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=flyychmoreeee&icon=0&color=0)](https://visitcount.itsvg.in)
 
